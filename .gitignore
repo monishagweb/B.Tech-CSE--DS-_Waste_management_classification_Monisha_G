@@ -1,0 +1,18 @@
+# Ignore large folders
+data/
+models/
+venv/
+
+# Ignore model files
+*.h5
+*.pkl
+*.joblib
+
+# Ignore images
+*.jpg
+*.png
+*.jpeg
+
+# Ignore cache
+__pycache__/
+*.pyc
